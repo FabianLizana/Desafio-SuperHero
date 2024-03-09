@@ -1,0 +1,60 @@
+#logo-principal{
+    background: url(../img/sh1.jpg);
+    height: 200px;
+    width: 280px;
+    background-size: cover;
+    margin: auto;
+}
+
+h1, h3{
+    font-family: 'Bangers', cursive;
+}
+h3{
+    font-size: 34px;
+}
+
+.spantext{
+    font-family: 'Bangers', cursive;
+    font-weight: 400;
+    font-size: 30px;
+}
+
+.rainbow-bg{
+    background-image: linear-gradient(to top right, #FCA5A5, #FCD34D, #6EE7B7, #93C5FD, #C4B5FD);
+}
+
+.btn-muted:active{
+    background-image: linear-gradient(to top right, #C4B5FD, #93C5FD, #6EE7B7, #FCD34D,#FCA5A5);
+}
+
+footer{
+    height: 30px;
+    color: gray;
+    background-image: linear-gradient(to top right, #EFF6FF, #ECFDF5);
+    text-align: center;
+}
+
+.container.my-3 .row.align-items-center {
+    display: flex;
+  }
+  
+  .card {
+    width: 100%;
+    max-width: 800px;
+    height: auto;
+  }
+  
+  #chartContainer {
+    width: 100%;
+    max-width: 500px;
+    height: 300px;
+  }
+  
+  .imagen-modal {
+    max-width: 100%;
+    max-height: 100%;
+    object-fit: contain;
+  }
+  
+
+  
